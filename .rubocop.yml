@@ -1,6 +1,12 @@
 Style/Encoding:
   Enabled: false
 
+Style/EmptyMethod:
+  Enabled: false
+
+Stlye/Documentation:
+  Enabled: false
+
 Metrics/LineLength:
   Max: 199
 
